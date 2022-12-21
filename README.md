@@ -22,5 +22,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ![30476529](https://user-images.githubusercontent.com/45388123/208701837-34c3d195-a0d8-4a38-8502-5d87fb0697ba.png)
 
-# Patika.dev Linki
+##Patika.dev Linki
 [Patika | me](https://app.patika.dev/erdox)

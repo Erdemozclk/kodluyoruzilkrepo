@@ -19,6 +19,6 @@ code .
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
-
+![Kodluyoruz Logo](https://github.com/Erdemozclk/kodluyoruzilkrepo/tree/main)
 # Patika.dev Linki
 [Patika | me](https://app.patika.dev/erdox)
